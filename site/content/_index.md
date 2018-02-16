@@ -1,5 +1,5 @@
 ---
-title: D3 Banking Technology @ Netlify
+title: D3 Banking Technology @ Jeff
 subtitle: 'Choose a Strategy, not a Product'
 image: /img/about-direct-sourcing.jpg
 blurb:
@@ -17,6 +17,12 @@ intro:
     retention of customers and member. Get there first with our API-driven
     architecture that speeds time to market.
 products:
+  - image: /img/dev ops-921942-edited.jpg
+    text: >-
+      We offer a small, but carefully curated selection of brewing gear and
+      tools for every taste and experience level. No matter if you roast your
+      own beans or just bought your first french press, you’ll find a gadget to
+      fall in love with in our shop.
   - image: /img/biometrics sm-995263-edited.jpg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
@@ -24,12 +30,6 @@ products:
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/dev ops-921942-edited.jpg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 values:
   heading: Our values
   text: >-
